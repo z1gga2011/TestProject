@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: 1161dfb6af4fa6a439e897a8527cc12d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2012133089457417671
+    second: demo_loc_sprites_2
+  - first:
+      213: -7216440984364348118
+    second: demo_loc_sprites_3
+  - first:
+      213: 3278341717053875107
+    second: demo_loc_sprites_4
+  - first:
+      213: 3869958730157968753
+    second: demo_loc_sprites_5
+  - first:
+      213: -5751787783646285825
+    second: demo_loc_sprites_6
+  - first:
+      213: -891521892196978625
+    second: demo_loc_sprites_7
+  - first:
+      213: -6767318415477807145
+    second: demo_loc_sprites_8
+  - first:
+      213: -3910104421407108121
+    second: demo_loc_sprites_9
+  - first:
+      213: -8837200363900041345
+    second: demo_loc_sprites_10
+  - first:
+      213: 379192638402254797
+    second: BG1
+  - first:
+      213: -4279732295277445113
+    second: BG2
+  - first:
+      213: 2181289046386314489
+    second: BG3
+  - first:
+      213: -464077064317041903
+    second: BG4
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: demo_loc_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 1622
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6f076afc6d79450800000000000000
+      internalID: 6095576808008251121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demo_loc_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 1622
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c0731e0793020d0800000000000000
+      internalID: -3449694157588198337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demo_loc_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 536
+        width: 134
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932d41aad977314e0800000000000000
+      internalID: -2012133089457417671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demo_loc_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 535
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d8468b82d0adb90800000000000000
+      internalID: -7216440984364348118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demo_loc_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 535
+        width: 214
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a327591c620f7d20800000000000000
+      internalID: 3278341717053875107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demo_loc_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 538
+        width: 420
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dcc7e06fad4b530800000000000000
+      internalID: 3869958730157968753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demo_loc_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 537
+        width: 69
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffe45c2c7b8d20b0800000000000000
+      internalID: -5751787783646285825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demo_loc_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 536
+        width: 4
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f307d12009da0a3f0800000000000000
+      internalID: -891521892196978625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demo_loc_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 538
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d76c7381c7a512a0800000000000000
+      internalID: -6767318415477807145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demo_loc_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 646
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3585fceb48cb9c0800000000000000
+      internalID: -3910104421407108121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demo_loc_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 634
+        width: 9
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7709cc2715fb5580800000000000000
+      internalID: -8837200363900041345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 385
+        width: 424
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7d86112b9234500800000000000000
+      internalID: 379192638402254797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 311
+        width: 1318
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700883607265b94c0800000000000000
+      internalID: -4279732295277445113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 169
+        width: 1328
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc8e4aa4de754e10800000000000000
+      internalID: 2181289046386314489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 63
+        width: 587
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1130af86e544f89f0800000000000000
+      internalID: -464077064317041903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BG1: 379192638402254797
+      BG2: -4279732295277445113
+      BG3: 2181289046386314489
+      BG4: -464077064317041903
+      demo_loc_sprites_0: 6095576808008251121
+      demo_loc_sprites_1: -3449694157588198337
+      demo_loc_sprites_10: -8837200363900041345
+      demo_loc_sprites_2: -2012133089457417671
+      demo_loc_sprites_3: -7216440984364348118
+      demo_loc_sprites_4: 3278341717053875107
+      demo_loc_sprites_5: 3869958730157968753
+      demo_loc_sprites_6: -5751787783646285825
+      demo_loc_sprites_7: -891521892196978625
+      demo_loc_sprites_8: -6767318415477807145
+      demo_loc_sprites_9: -3910104421407108121
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
